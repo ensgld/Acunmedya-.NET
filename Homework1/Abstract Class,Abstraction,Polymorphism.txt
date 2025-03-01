@@ -1,0 +1,3 @@
+Abstraction:Komplex yapıları soyutlayarak gereksiz detaylarını implementationda gizlenmesi sadece gerekli detayların arayüzde gözükmesi
+Abstract Class:(Soyut Sınıf):Nesne Oluşturulamayan yapıya sadece arayüz sağlayan sınıf.
+Polymorphism:Aynı işlevleri farklı şekillerde kullanabilmek.
