@@ -1,0 +1,16 @@
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\bin\Debug\net8.0-windows\WindowsFormHomework.exe
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\bin\Debug\net8.0-windows\WindowsFormHomework.deps.json
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\bin\Debug\net8.0-windows\WindowsFormHomework.runtimeconfig.json
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\bin\Debug\net8.0-windows\WindowsFormHomework.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\bin\Debug\net8.0-windows\WindowsFormHomework.pdb
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.WindowsFormHomework.resources
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.csproj.GenerateResource.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.AssemblyInfoInputs.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.AssemblyInfo.cs
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.csproj.CoreCompileInputs.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\refint\WindowsFormHomework.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.pdb
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\WindowsFormHomework.genruntimeconfig.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\WindowsFormHomework\obj\Debug\net8.0-windows\ref\WindowsFormHomework.dll
