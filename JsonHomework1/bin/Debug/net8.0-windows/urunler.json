@@ -1,0 +1,70 @@
+[
+    {
+        "UrunAdi": "Bilgisayar",
+        "Fiyat": 24500,
+        "Kategori": "Elektronik",
+        "Marka": "Asus",
+        "Açıklama": "Yüksek performanslı gaming bilgisayar",
+        "StokMiktari": 20,
+        "Ozellikler": {
+            "Islemci": "Intel i7",
+            "RAM": "16GB",
+            "Depolama": "1TB SSD",
+            "EkranKarti": "NVIDIA GTX 1660"
+        }
+    },
+    {
+        "UrunAdi": "Klavye",
+        "Fiyat": 450,
+        "Kategori": "Aksesuar",
+        "Marka": "Logitech",
+        "Açıklama": "RGB mekanik klavye",
+        "StokMiktari": 150,
+        "Ozellikler": {
+            "Tasarim": "Ergonomik",
+            "Renk": "Siyah",
+            "KullaniciTipi": "Kablolu"
+        }
+    },
+    {
+        "UrunAdi": "Telefon",
+        "Fiyat": 7999,
+        "Kategori": "Elektronik",
+        "Marka": "Samsung",
+        "Açıklama": "Amiral gemisi akıllı telefon",
+        "StokMiktari": 50,
+        "Ozellikler": {
+            "EkranBoyutu": "6.5 inç",
+            "Kamera": "108 MP",
+            "PilKapasitesi": "5000mAh",
+            "Islemci": "Snapdragon 888"
+        }
+    },
+    {
+        "UrunAdi": "Tablet",
+        "Fiyat": 3499,
+        "Kategori": "Elektronik",
+        "Marka": "Apple",
+        "Açıklama": "Yeni iPad Pro 11 inç",
+        "StokMiktari": 75,
+        "Ozellikler": {
+            "EkranBoyutu": "11 inç",
+            "RAM": "8GB",
+            "Depolama": "128GB",
+            "Islemci": "M1"
+        }
+    },
+    {
+        "UrunAdi": "Kulaklık",
+        "Fiyat": 799,
+        "Kategori": "Aksesuar",
+        "Marka": "Sony",
+        "Açıklama": "Kablosuz kulaklık, aktif gürültü engelleme",
+        "StokMiktari": 100,
+        "Ozellikler": {
+            "SesTeknolojisi": "360 Reality Audio",
+            "PilSüresi": "30 saat",
+            "Bağlantı": "Bluetooth"
+        }
+    }
+]

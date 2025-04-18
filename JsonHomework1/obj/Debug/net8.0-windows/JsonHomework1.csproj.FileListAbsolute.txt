@@ -1,0 +1,17 @@
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\JsonHomework1.exe
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\urunler.json
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\JsonHomework1.deps.json
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\JsonHomework1.runtimeconfig.json
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\JsonHomework1.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\bin\Debug\net8.0-windows\JsonHomework1.pdb
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.Form1.resources
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.csproj.GenerateResource.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.AssemblyInfoInputs.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.AssemblyInfo.cs
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.csproj.CoreCompileInputs.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\refint\JsonHomework1.dll
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.pdb
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\JsonHomework1.genruntimeconfig.cache
+C:\Users\enesg\OneDrive\Masaüstü\VisualStudioProjects\AcunMedya\JsonHomework1\obj\Debug\net8.0-windows\ref\JsonHomework1.dll
